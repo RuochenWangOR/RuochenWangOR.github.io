@@ -11,37 +11,28 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 
 # Research
 
-## 2024
+## Publications
 
-### [Title of Paper 1](link-to-paper)
-**Authors**: Your Name, Co-author Name  
-**Journal/Conference**: Journal Name / Conference Name  
-**Abstract**: Brief summary of the paper, highlighting the main contributions and findings.  
-**DOI**: [DOI link]
-
----
-
-### [Title of Paper 2](link-to-paper)
-**Authors**: Your Name, Co-author Name  
-**Journal/Conference**: Journal Name / Conference Name  
-**Abstract**: Brief summary of the paper, highlighting the main contributions and findings.  
-**DOI**: [DOI link]
+### An Experimental Investigation into the Hash Functions Used in Blockchains
+**with**: Fuqin Wang, Yijiang Chen
+**Journal/Conference**: IEEE Transactions on Engineering Management
+**DOI**: [https://doi.org/10.1109/TEM.2019.2932202]
 
 ---
 
-## 2023
-
-### [Title of Paper 3](link-to-paper)
-**Authors**: Your Name, Co-author Name  
-**Journal/Conference**: Journal Name / Conference Name  
-**Abstract**: Brief summary of the paper, highlighting the main contributions and findings.  
-**DOI**: [DOI link]
+### Asymptotic Normality of Joint Metamodel-based Sobol’ Index Estimators
+**with**: Jingtao Zhang, Xi Chen
+**Journal/Conference**: 2023 Winter Simulation Conference (WSC)
+**DOI**: [https://doi.org/10.1109/WSC60868.2023.10407222]
 
 ---
 
 ## Working Papers
 
-### [Title of Working Paper 1](link-to-paper)
-**Authors**: Your Name, Co-author Name  
-**Status**: Submitted / In Review  
-**Abstract**: Brief summary of the paper, highlighting the main contributions and findings.  
+### Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs
+**with**: Sait Tunc, Burhaneddin Sandikci, Bekir Tanriover, Matthew J. Ellis  
+**Status**: Submitted to Management Science. Major Revision.
+
+### Treating to the Priority in Heart Transplantation
+**with**: Philipp Afeche, Sait Tunc
+**Status**: Working Paper
