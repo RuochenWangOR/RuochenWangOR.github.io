@@ -32,3 +32,17 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 ### Treating to the Priority in Heart Transplantation
 **with**: Philipp Afeche, Sait Tunc  
 **Status**: Working Paper
+
+# Presentations
+
+## 2024
+
+### INFORMS Manufacturing and Service Operations Management Conference SIG, Minnesota, U.S.A
+
+---
+
+## 2023
+
+### INFORMS Healthcare Conference, Toronto, Canada
+### INFORMS Annual Meeting, Phoenix, U.S.A
+### INFORMS Manufacturing and Service Operations Management Conference, Montreal, Canada
