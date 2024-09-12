@@ -14,7 +14,7 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 ## Publications
 
 ### An Experimental Investigation into the Hash Functions Used in Blockchains
-**with**: Fuqin Wang, Yijiang Chen. IEEE Transactions on Engineering Management  
+**with**: Fuqin Wang, Yijiang Chen. 2020 IEEE Transactions on Engineering Management  
 
 ---
 
