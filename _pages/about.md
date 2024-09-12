@@ -46,3 +46,53 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 ### INFORMS Healthcare Conference, Toronto, Canada
 ### INFORMS Annual Meeting, Phoenix, U.S.A
 ### INFORMS Manufacturing and Service Operations Management Conference, Montreal, Canada
+
+---
+
+# Teaching
+
+## 2024
+
+### Probability Foundations for Industrial and Systems Engineers
+**Role**: Instructor  
+**Semester**: Summer 2024    
+
+---
+
+## 2023
+
+### ISE 2024: Probability Foundations for Industrial and Systems Engineering
+**Role**: Teaching Assistant  
+**Semester**: Spring 2023  
+
+### ISE 3414: Probabilistic Operations Research  
+**Role**: Teaching Assistant  
+**Semester**: Fall 2023  
+
+---
+
+## 2022
+
+### ISE 4264: Industrial Automation
+**Role**: Teaching Assistant  
+**Semester**: Spring 2022  
+
+### ISE 2024: Probability Foundations for Industrial and Systems Engineering  
+**Role**: Teaching Assistant  
+**Semester**: Summer 2022  
+
+### ISE 5424: Simulation I  
+**Role**: Teaching Assistant  
+**Semester**: Fall 2022
+
+### ISE 5024: Mathematical Probability and Statistics  
+**Role**: Teaching Assistant  
+**Semester**: Fall 2022
+
+---
+
+## 2021
+
+### ISE 3034: Technical Communication for Engineers  
+**Role**: Teaching Assistant   
+**Semester**: Fall 2021  
