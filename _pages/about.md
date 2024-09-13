@@ -53,7 +53,7 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 
 ## 2024
 
-### Probability Foundations for Industrial and Systems Engineers
+### ISE 2024: Probability Foundations for Industrial and Systems Engineers
 **Role**: Instructor  
 **Semester**: Summer 2024    
 
