@@ -50,19 +50,17 @@ Target submission date: June 2025
  
 ---
 
-# Presentations
+# Referred Conference Presentations/Publications
 
-## 2024
-
-### INFORMS Manufacturing and Service Operations Management Conference SIG, Minnesota, U.S.A
+## **R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Healthcare SIG*, Minneapolis, Minnesota, 2024.
+## **R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Conference*, Montreal, Canada, 2023.
 
 ---
 
-## 2023
+# Other Presentations
 
-### INFORMS Healthcare Conference, Toronto, Canada
-### INFORMS Annual Meeting, Phoenix, U.S.A
-### INFORMS Manufacturing and Service Operations Management Conference, Montreal, Canada
+## R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Annual Meeting*, Phoenix, Arizona, 2023.
+## R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Healthcare Conference*, Toronto, Canada, 2023.
 
 ---
 
