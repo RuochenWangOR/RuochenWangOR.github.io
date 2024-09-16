@@ -34,7 +34,7 @@ Status: Submitted to **Management Science**. **Major Revision**.
 ## Working Papers  
 
 ### Treating to the Priority in Heart Transplantation  
-**with**: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker  
+with: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker  
 Target journal: **Operation Research**  
 Target submission date: December 2024  
 
@@ -66,47 +66,21 @@ Target submission date: June 2025
 
 ---
 
-# Teaching
+## Teaching
 
-## 2024
+### Instructor
 
-### ISE 2024: Probability Foundations for Industrial and Systems Engineers
-**Role**: Instructor  
-**Semester**: Summer 2024    
+#### ISE 2024: Probability Foundations for Industrial and Systems Engineers  
+**Semester**: Summer 2024
 
----
+### Teaching Assistant (Fall 2021 – Fall 2023)
 
-## 2023
-
-### ISE 2024: Probability Foundations for Industrial and Systems Engineering
-**Role**: Teaching Assistant  
-**Semester**: Spring 2023  
-
-### ISE 3414: Probabilistic Operations Research  
-**Role**: Teaching Assistant  
-**Semester**: Fall 2023  
-
----
-
-## 2022
-
-### ISE 4264: Industrial Automation
-**Role**: Teaching Assistant  
-**Semester**: Spring 2022  
-
-### ISE 2024: Probability Foundations for Industrial and Systems Engineering  
-**Role**: Teaching Assistant  
-**Semester**: Summer 2022  
-
-### ISE 5424: Simulation I  
-**Role**: Teaching Assistant  
-**Semester**: Fall 2022
-
-### ISE 5024: Mathematical Probability and Statistics  
-**Role**: Teaching Assistant  
-**Semester**: Fall 2022
-
----
+- **ISE 2024: Probability Foundations for Industrial and Systems Engineering**  
+- **ISE 3034: Technical Communication for Engineers**  
+- **ISE 3414: Probabilistic Operations Research**  
+- **ISE 4264: Industrial Automation**  
+- **ISE 5024: Mathematical Probability and Statistics**  
+- **ISE 5424: Simulation I**
 
 ## 2021
 
