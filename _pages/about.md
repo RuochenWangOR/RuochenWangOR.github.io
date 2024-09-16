@@ -68,14 +68,14 @@ Target submission date: June 2025
 
 # Teaching
 
-## Instructor
+## Instructor (Summer 2024)
 
-### ISE 2024: Probability Foundations for Industrial and Systems Engineers  
-**Semester: Summer 2024**  
+-- **ISE 2024: Probability Foundations for Industrial and Systems Engineers**  
 
-## Teaching Assistant (Fall 2021 – Fall 2023, Spring 2024)
+## Teaching Assistant (2021 – 2023, Spring 2024)
 
-- **ISE 2024: Probability Foundations for Industrial and Systems Engineering**  
+- **ISE 2024: Probability Foundations for Industrial and Systems Engineering**
+- **ISE 2404 - Deterministic Operations Research II**  
 - **ISE 3034: Technical Communication for Engineers**  
 - **ISE 3414: Probabilistic Operations Research**  
 - **ISE 4264: Industrial Automation**  
