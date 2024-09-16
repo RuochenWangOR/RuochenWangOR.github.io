@@ -50,29 +50,29 @@ Target submission date: June 2025
  
 ---
 
-## Referred Conference Presentations/Publications
+## Referred Conference Presentations/Publications  
 
 ### R. Wang, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Healthcare SIG*, Minneapolis, Minnesota, 2024.  
 ### R. Wang, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Conference*, Montreal, Canada, 2023.  
 
 ---
 
-## Other Presentations
+## Other Presentations  
 
 ### R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Annual Meeting*, Phoenix, Arizona, 2023.  
 ### R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Healthcare Conference*, Toronto, Canada, 2023.  
 
 ---
 
-# Teaching
+# Teaching  
 
-## Instructor (Summer 2024)
+## Instructor (Summer 2024)  
 
 - **ISE 2024: Probability Foundations for Industrial and Systems Engineers**  
 
-## Teaching Assistant (2021 – 2023, Spring 2024)
+## Teaching Assistant (2021 – 2023, Spring 2024)  
 
-- **ISE 2024: Probability Foundations for Industrial and Systems Engineering**
+- **ISE 2024: Probability Foundations for Industrial and Systems Engineering**  
 - **ISE 2404 - Deterministic Operations Research II**  
 - **ISE 3034: Technical Communication for Engineers**  
 - **ISE 3414: Probabilistic Operations Research**  
