@@ -73,7 +73,7 @@ Target submission date: June 2025
 #### ISE 2024: Probability Foundations for Industrial and Systems Engineers  
 **Semester**: Summer 2024
 
-### Teaching Assistant (Fall 2021 – Fall 2023)
+### Teaching Assistant (Fall 2021 – Fall 2023, Spring 2024)
 
 - **ISE 2024: Probability Foundations for Industrial and Systems Engineering**  
 - **ISE 3034: Technical Communication for Engineers**  
