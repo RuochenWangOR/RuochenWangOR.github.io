@@ -71,7 +71,7 @@ Target submission date: June 2025
 ## Instructor
 
 ### ISE 2024: Probability Foundations for Industrial and Systems Engineers  
-**Semester**: Summer 2024
+**Semester: Summer 2024**  
 
 ## Teaching Assistant (Fall 2021 – Fall 2023, Spring 2024)
 
