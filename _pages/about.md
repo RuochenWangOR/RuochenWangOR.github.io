@@ -69,7 +69,7 @@ Target submission date: June 2025
 ## Instructor (Summer 2024)  
 
 - **ISE 2024: Probability Foundations for Industrial and Systems Engineers**  
- Core Sophomore-level Undergraduate Course (**Class size: 55**)
+ Core Sophomore-level Undergraduate Course (**Class size: 55**)  
  **This core undergraduate course serves as a basis for applications courses in the industrial
 and systems engineering undergraduate curriculum. The course provides the foundation for
 the study of industrial statistics and quality control as well as for the sequence of probability
