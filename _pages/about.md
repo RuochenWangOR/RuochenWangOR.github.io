@@ -81,9 +81,3 @@ Target submission date: June 2025
 - **ISE 4264: Industrial Automation**  
 - **ISE 5024: Mathematical Probability and Statistics**  
 - **ISE 5424: Simulation I**
-
-## 2021
-
-### ISE 3034: Technical Communication for Engineers  
-**Role**: Teaching Assistant   
-**Semester**: Fall 2021  
