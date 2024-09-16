@@ -14,12 +14,12 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 ## Publications
 
 ### An Experimental Investigation into the Hash Functions Used in Blockchains
-with: F. Wang, Y. Chen, A.~O.~Francis, B.~Emmanuel, W.~Zhenh, J.~Chen. **IEEE Transactions on Engineering Management**, 2019, 1-21, 10.1109. 
+with: F. Wang, Y. Chen, A. O. Francis, B. Emmanuel, W. Zhenh, J. Chen. **IEEE Transactions on Engineering Management**, 2019, 1-21, 10.1109. 
 
 ---
 
 ### Asymptotic Normality of Joint Metamodel-based Sobol’ Index Estimators
-with: J.~Zhang, X.~Chen. **Winter Simulation Conference**, 2023, 3705 - 3716.
+with: J. Zhang, X. Chen. **Winter Simulation Conference**, 2023, 3705 - 3716.
 
 ---
 
