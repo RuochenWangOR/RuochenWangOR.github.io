@@ -26,7 +26,7 @@ with: J. Zhang, X. Chen. **Winter Simulation Conference**, 2023, 3705 - 3716.
 ## Papers Under Review
 
 ### Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs  
-with: Sait Tunc, Burhaneddin Sandikci, Bekir Tanriover, Matthew J. Ellis  
+with: S. Tunc, B. Sandikci, B. Tanriover, M.J. Ellis  
 Status: Submitted to **Management Science**. **Major Revision**.  
 
 ---
@@ -34,17 +34,17 @@ Status: Submitted to **Management Science**. **Major Revision**.
 ## Working Papers  
 
 ### Treating to the Priority in Heart Transplantation  
-with: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker  
+with: S. Tunc, P. Afeche, B. Sandikci, W.F. Parker  
 Target journal: **Operation Research**  
 Target submission date: December 2024  
 
 ### Targeted Incentive Mechanisms in U.S. Kidney Allocation: Lessons from the Eurotransplant Senior Program  
-with: Sait Tunc, Matthew J. Ellis  
+with: S. Tunc, M.J. Ellis  
 Target journal: **American Journal of Transplantation**  
 Target submission date: January 2025  
 
 ### Strategic Patient Selection for Targeted Priority Mechanisms: Balancing Efficiency and Equity in Organ Allocation  
-with: Sait Tunc, Matthew J. Ellis  
+with: S. Tunc, M.J. Ellis  
 Target journal: **Production and Operations Management**  
 Target submission date: June 2025  
  
