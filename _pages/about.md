@@ -13,12 +13,12 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 
 ## Publications
 
-### An Experimental Investigation into the Hash Functions Used in Blockchains
+### An Experimental Investigation into the Hash Functions Used in Blockchains  
 with F. Wang, Y. Chen, A. O. Francis, B. Emmanuel, W. Zhenh, J. Chen. **IEEE Transactions on Engineering Management**, 2019, 1-21, 10.1109. 
 
 ---
 
-### Asymptotic Normality of Joint Metamodel-based Sobol’ Index Estimators
+### Asymptotic Normality of Joint Metamodel-based Sobol’ Index Estimators  
 with J. Zhang, X. Chen. **Winter Simulation Conference**, 2023, 3705 - 3716.
 
 ---
@@ -31,7 +31,7 @@ Status: Submitted to **Management Science**. **Major Revision**.
 
 ---
 
-## Working Papers  
+## Working Papers
 
 ### Treating to the Priority in Heart Transplantation  
 with S. Tunc, P. Afeche, B. Sandikci, W.F. Parker  
@@ -50,17 +50,21 @@ Target submission date: June 2025
  
 ---
 
-## Referred Conference Presentations/Publications  
+## Referred Conference Presentations/Publications
 
-### R. Wang, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Healthcare SIG*, Minneapolis, Minnesota, 2024.  
-### R. Wang, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Conference*, Montreal, Canada, 2023.  
+### 
+**R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Healthcare SIG*, Minneapolis, Minnesota, 2024.  
+### 
+**R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *MSOM Conference*, Montreal, Canada, 2023.  
 
 ---
 
 ## Other Presentations  
 
-### R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Annual Meeting*, Phoenix, Arizona, 2023.  
-### R. Wang, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Healthcare Conference*, Toronto, Canada, 2023.  
+### 
+**R. Wang**, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Annual Meeting*, Phoenix, Arizona, 2023.  
+### 
+**R. Wang**, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. *INFORMS Healthcare Conference*, Toronto, Canada, 2023.  
 
 ---
 
