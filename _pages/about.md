@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the Industrial and Systems Engineering Department, Virginia Tech. I am fortunate to be advised by Prof. Sait Tunc. I am broadly interested in queueing theory, game theory, stochastic modeling, and simulation with applications in healthcare operations, and incentive mechanism designs. I am on the job market for the Fall 2025 academic year. 
+I am a fourth-year PhD student at the Industrial and Systems Engineering Department, Virginia Tech. I am fortunate to be advised by Prof. Sait Tunc. I am broadly interested in queueing theory, game theory, stochastic modeling, and simulation with applications in healthcare operations, and incentive mechanism designs. I am on the job market for the 2025-2026 academic year. 
 
 # Research
 
