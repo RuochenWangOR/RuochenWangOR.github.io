@@ -25,29 +25,29 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 
 ## Papers Under Review
 
-### Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs
+### Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs  
 **with**: Sait Tunc, Burhaneddin Sandikci, Bekir Tanriover, Matthew J. Ellis  
 **Status**: Submitted to Management Science. Major Revision.  
 
 ---
 
-## Working Papers
+## Working Papers  
 
-### Treating to the Priority in Heart Transplantation
-**with**: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker
-**Target journal**: Operation Research
-**Target submission date**: December 2024
+### Treating to the Priority in Heart Transplantation  
+**with**: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker  
+**Target journal**: Operation Research  
+**Target submission date**: December 2024  
 
-### Targeted Incentive Mechanisms in U.S. Kidney Allocation: Lessons from the Eurotransplant Senior Program
-**with**: Sait Tunc, Matthew J. Ellis
-**Target journal**: American Journal of Transplantation
-**Target submission date**: January 2025
+### Targeted Incentive Mechanisms in U.S. Kidney Allocation: Lessons from the Eurotransplant Senior Program  
+**with**: Sait Tunc, Matthew J. Ellis  
+**Target journal**: American Journal of Transplantation  
+**Target submission date**: January 2025  
 
-### Strategic Patient Selection for Targeted Priority Mechanisms: Balancing Efficiency and Equity in Organ Allocation
-**with**: Sait Tunc, Matthew J. Ellis
-**Target journal**: Production and Operations Management
-**Target submission date**: June 2025
-
+### Strategic Patient Selection for Targeted Priority Mechanisms: Balancing Efficiency and Equity in Organ Allocation  
+**with**: Sait Tunc, Matthew J. Ellis  
+**Target journal**: Production and Operations Management  
+**Target submission date**: June 2025  
+ 
 ---
 
 # Presentations
