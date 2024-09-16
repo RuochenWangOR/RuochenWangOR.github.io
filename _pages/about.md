@@ -14,20 +14,20 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 ## Publications
 
 ### An Experimental Investigation into the Hash Functions Used in Blockchains
-**with**: Fuqin Wang, Yijiang Chen. 2020 IEEE Transactions on Engineering Management  
+with: Fuqin Wang, Yijiang Chen. 2020 IEEE Transactions on Engineering Management  
 
 ---
 
 ### Asymptotic Normality of Joint Metamodel-based Sobol’ Index Estimators
-**with**: Jingtao Zhang, Xi Chen. 2023 Winter Simulation Conference (WSC)
+with: Jingtao Zhang, Xi Chen. 2023 Winter Simulation Conference (WSC)
 
 ---
 
 ## Papers Under Review
 
 ### Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs  
-**with**: Sait Tunc, Burhaneddin Sandikci, Bekir Tanriover, Matthew J. Ellis  
-**Status**: Submitted to Management Science. Major Revision.  
+with: Sait Tunc, Burhaneddin Sandikci, Bekir Tanriover, Matthew J. Ellis  
+Status: Submitted to **Management Science**. **Major Revision**.  
 
 ---
 
@@ -35,18 +35,18 @@ I am a fourth-year PhD student at the Industrial and Systems Engineering Departm
 
 ### Treating to the Priority in Heart Transplantation  
 **with**: Sait Tunc, Philipp Afeche, Burhaneddin Sandikci, William F Parker  
-**Target journal**: Operation Research  
-**Target submission date**: December 2024  
+Target journal: **Operation Research**  
+Target submission date: December 2024  
 
 ### Targeted Incentive Mechanisms in U.S. Kidney Allocation: Lessons from the Eurotransplant Senior Program  
-**with**: Sait Tunc, Matthew J. Ellis  
-**Target journal**: American Journal of Transplantation  
-**Target submission date**: January 2025  
+with: Sait Tunc, Matthew J. Ellis  
+Target journal: **American Journal of Transplantation**  
+Target submission date: January 2025  
 
 ### Strategic Patient Selection for Targeted Priority Mechanisms: Balancing Efficiency and Equity in Organ Allocation  
-**with**: Sait Tunc, Matthew J. Ellis  
-**Target journal**: Production and Operations Management  
-**Target submission date**: June 2025  
+with: Sait Tunc, Matthew J. Ellis  
+Target journal: **Production and Operations Management**  
+Target submission date: June 2025  
  
 ---
 
