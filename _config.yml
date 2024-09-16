@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student, ISE, Virginia Tech"
   location         : "Blacksburg, VA  <br>
-                      108 Durham Hall  <br>
-                      1145 Perry Street"
+                      &nbsp;&nbsp;&nbsp;&nbsp;108 Durham Hall <br>
+                      &nbsp;&nbsp;&nbsp;&nbsp;1145 Perry Street"
   # employer         : "Red Brick University"
   uri              : 
   email            : "rcwangise@vt.edu" 
