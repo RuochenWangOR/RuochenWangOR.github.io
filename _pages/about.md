@@ -25,7 +25,7 @@ with J. Zhang, X. Chen. **Winter Simulation Conference**, 2023, 3705 - 3716.
 
 ## Papers Under Review
 
-### [Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs](https://drive.google.com/file/d/1OrW0j1QN2ROkylKD1dn559EX6xuyAn0Q/view?usp=drive_link)  
+### [Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs](https://drive.google.com/file/d/1W8MeAwv6xD0WL1ZApkxVUsZmh2DhL1IB/view?usp=drive_link)  
 with S. Tunc, B. Sandikci, B. Tanriover, M.J. Ellis  
 Status: Submitted to **Management Science**. **Major Revision**.  
 
