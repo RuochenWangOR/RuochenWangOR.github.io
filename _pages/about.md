@@ -35,25 +35,22 @@ Status: Submitted to **Management Science**. **Major Revision**.
 
 ### Treating to the Priority in Heart Transplantation  
 with S. Tunc, P. Afeche, B. Sandikci, W.F. Parker  
-Target journal: **Operation Research**  
-Target submission date: December 2024  
+Paper in preparation. Target journal: **Operation Research**  
 
 ### Targeted Incentive Mechanisms in U.S. Kidney Allocation: Lessons from the Eurotransplant Senior Program  
 with S. Tunc, M.J. Ellis  
-Target journal: **American Journal of Transplantation**  
-Target submission date: January 2025  
+Paper in preparation. Target journal: **American Journal of Transplantation**  
 
 ### Strategic Patient Selection for Targeted Priority Mechanisms: Balancing Efficiency and Equity in Organ Allocation  
 with S. Tunc, M.J. Ellis  
-Target journal: **Production and Operations Management**  
-Target submission date: June 2025  
+Paper in preparation. Target journal: **Production and Operations Management**    
  
 ---
 
 ## Referred Conference Presentations/Publications
 
-**R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. ***MSOM Healthcare SIG***, Minneapolis, Minnesota, 2024.  
-**R. Wang**, S. Tunc, B. Sandikci, B. Tanriover and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. ***MSOM Conference***, Montreal, Canada, 2023.  
+**R. Wang**, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. ***MSOM Healthcare SIG***, Minneapolis, Minnesota, 2024.  
+**R. Wang**, S. Tunc, B. Sandikci, and M.J. Ellis. Targeted Priority Mechanisms in Organ Transplantation. ***MSOM Conference***, Montreal, Canada, 2023.  
 
 ---
 
