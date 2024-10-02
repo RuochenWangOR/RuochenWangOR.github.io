@@ -67,7 +67,7 @@ Paper in preparation. Target journal: **Production and Operations Management**
 
 **ISE 2024: Probability Foundations for Industrial and Systems Engineers**  
 - **Core Sophomore-level Undergraduate Course (Class size: 55)**  
-  - **This core undergraduate course serves as a basis for applications courses in the industrial and systems engineering undergraduate curriculum. The course provides the foundation for the study of industrial statistics and quality control as well as for the sequence of probability modeling and analysis courses, such as stochastic processes and simulation modeling/analysis, as well as human factors and ergonomics and manufacturing courses.**
+  - This core undergraduate course serves as a basis for applications courses in the industrial and systems engineering undergraduate curriculum. The course provides the foundation for the study of industrial statistics and quality control as well as for the sequence of probability modeling and analysis courses, such as stochastic processes and simulation modeling/analysis, as well as human factors and ergonomics and manufacturing courses.
 
 ## Teaching Assistant (2021 – 2023, Spring 2024)  
 
