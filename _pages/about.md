@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow at the Smith School of Business at Queen’s University. I received my Ph.D. from the Industrial and Systems Engineering Department at Virginia Tech, where I was advised by Prof. Sait Tunc. My research interests broadly span queueing theory, game theory, stochastic modeling, and simulation, with applications in healthcare operations and incentive mechanism design.
+I am currently a postdoctoral fellow at the Smith School of Business at Queen’s University. I received my Ph.D. from the Industrial and Systems Engineering Department at Virginia Tech, where I was advised by Prof. Sait Tunc. My research interests broadly span queueing theory, game theory, stochastic modeling, and simulation, with applications in healthcare operations 
+and incentive mechanism design.
 
 # Research
 
